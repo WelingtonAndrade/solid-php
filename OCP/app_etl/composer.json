@@ -1,0 +1,16 @@
+{
+    "name": "welington/app_etl",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Welington Andrade",
+            "email": "welingtonzin@gmail.com"
+        }
+    ],
+    "require": {}
+}
